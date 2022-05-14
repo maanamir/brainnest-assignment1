@@ -1,0 +1,115 @@
+HTML
+1. What do HTML and CSS stand for?
+
+--	HTML stands for  Hypertext Markup Language and CSS stands for Cascading Style Sheets.
+
+2. Would you rather use HTML or CSS, for putting paragraphs of text on a webpage?
+
+--	HTML.
+
+3. Would you rather use HTML or CSS, to change the font and background color of a
+button?
+
+--	CSS.
+
+4. What is an HTML tag?
+
+--	HTML element.
+
+5. What are the three parts of an HTML element? (image from paragraph)
+
+--	HTML Element=(Opening tag+content+closing tag)
+
+6. What is the purpose of the doctype declaration?
+
+--	Instructions to the Web Brower about which vrsion of the HTML is used.
+
+7. What is the HTML element?
+--	<Main element of the Webpage in which other elements are used.
+
+8. What is the purpose of the head element?
+-- element is a container for metadata.
+
+9. What is the purpose of the body element?
+--	The <body> tag defines the document's body. The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+
+10. How do you create a paragraph in HTML?
+--	<p></p>
+
+11. How do you create a heading in HTML?
+
+--	<h1></h1>
+--	<h2></h2>
+--	<h3></h3>
+--	<h4></h4>
+--	<h5></h5>
+--	<h6></h6>
+
+12. How many different levels of headings are there and what is the difference between
+them?
+
+--	six types.From h1 to h6. From h1 to h2 the text size decresease accordingly.
+
+
+13. What element should you use to make text bold and important?
+--	<strong> tag
+
+14. What element should you use to make text italicized to add emphasis to it?
+--	<em> tag
+
+15. What relationship does an element have with any nested elements within it?
+Its a parent-child relationship.
+--	<!-- parent -->
+--	<div>
+--	<!-- child -->
+--	<div></div>
+--	</div>
+
+16. What relationship do two elements have if they are at the same level of nesting?
+--	sibilings
+
+17. How do you create HTML comments?
+--	<!-- text -->
+
+18. What HTML tag is used to create an unordered list?
+
+--	<ul></ul>
+
+19. What HTML tag is used to create an ordered list?
+
+--	<ol></ol>
+
+20. What HTML tag is used to create list items within both unordered and ordered lists?
+
+--	<li></li>
+
+21. What element is used to create a link?
+
+--	<a>
+
+22. What is an attribute?
+
+--	Parameters that can be added to each element
+
+23. What attribute tells links where to go?
+
+--	href=""
+
+24. What is the difference between an absolute and relative link?
+--      Absolute=Same path used everywhere
+--	Relative=specific location in a file system
+
+25. Which element is used to display an image?
+--	<img>
+26. What two attributes do images always need to have?
+
+--	src and alt
+
+27. How do you access a parent directory in a file path?
+
+--	../
+
+
+28. What are the four main image formats that you can use for images on the web?
+
+--	jpg , gif , png , webp
